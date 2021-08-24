@@ -1,0 +1,11 @@
+With a partner we created code that would do the following:
+
+Add, delete, and show from a database
+Show
+  - Runs querys to show either all employees within a certain department or a total sum of all payouts within the last year
+Delete
+  - Runs a query to delete an employee with a specific emp_no
+Add
+  - Runs querys to add an employee to a database.
+Main
+  - takes user input in a specific format and runs sql querys on it.
